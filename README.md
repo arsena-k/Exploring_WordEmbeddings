@@ -6,7 +6,7 @@ Experimenting with word2vec
 
 This is an *introductory, exploratory* jupyter notebook to get to know Word2Vec and some text analytic concepts/tools. For a *more rigorous tutorial and application* of Word2Vec, please see my [repo on how words are loaded with meaning](https://github.com/arsena-k/Word2Vec-bias-extraction).
 
-**This notebooks explores**
+**This jupyter notebook explores**
 1. Upload and Clean/Preprocess Data to feed into word2Vec
 2. Learn Word2Vec Word Embeddings
 3. Explore Word2Vec Word Embeddings 
